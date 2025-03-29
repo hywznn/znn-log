@@ -34,23 +34,3 @@
 
 ---
 
-## 사용 기술
-
-주로 사용하는 기술과 도구입니다:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com)  
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
-
----
-
-## 소셜 미디어 & 연락처
-
-- [GitHub](https://github.com/당신의사용자명)
-- [LinkedIn](https://linkedin.com/in/당신의사용자명)
-- [Twitter](https://twitter.com/당신의사용자명)
-
----
-
-방문해주셔서 감사합니다!  
-더 궁금한 점이나 제안이 있다면 언제든지 **이슈** 또는 **문의**해주세요.
